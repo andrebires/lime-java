@@ -44,3 +44,10 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
+target
+tcp/target
+core/target
+resources/target
+
+# Deployment generated files
+.flattened-pom.xml
